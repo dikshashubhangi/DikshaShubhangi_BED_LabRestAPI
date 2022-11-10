@@ -1,0 +1,8 @@
+Êþº¾   =   Ecom/dikshashubhangi/greatlearning/collegeevent/CollegeeventApplication  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this GLcom/dikshashubhangi/greatlearning/collegeevent/CollegeeventApplication; main ([Ljava/lang/String;)V
+    *org/springframework/boot/SpringApplication   run b(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext; args [Ljava/lang/String; MethodParameters 
+SourceFile CollegeeventApplication.java RuntimeVisibleAnnotations >Lorg/springframework/boot/autoconfigure/SpringBootApplication; !               /     *· ±    
+                    	       6     *¸ W±    
+   
+    
+                                   

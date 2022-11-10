@@ -1,0 +1,3 @@
+Êþº¾   =   Jcom/dikshashubhangi/greatlearning/collegeevent/repository/StudentRepository  java/lang/Object  5org/springframework/data/jpa/repository/JpaRepository 
+SourceFile StudentRepository.java 	Signature ˜Ljava/lang/Object;Lorg/springframework/data/jpa/repository/JpaRepository<Lcom/dikshashubhangi/greatlearning/collegeevent/model/Student;Ljava/lang/Long;>; RuntimeVisibleAnnotations +Lorg/springframework/stereotype/Repository;               	    
+        

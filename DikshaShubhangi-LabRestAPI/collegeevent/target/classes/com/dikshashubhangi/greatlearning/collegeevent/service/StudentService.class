@@ -1,0 +1,3 @@
+Êþº¾   =   Dcom/dikshashubhangi/greatlearning/collegeevent/service/StudentService  java/lang/Object saveStudent @(Lcom/dikshashubhangi/greatlearning/collegeevent/model/Student;)V student MethodParameters getStudentById @(J)Lcom/dikshashubhangi/greatlearning/collegeevent/model/Student; 	studentId getAllStudents ()Ljava/util/List; 	Signature Q()Ljava/util/List<Lcom/dikshashubhangi/greatlearning/collegeevent/model/Student;>; deleteStudent (J)V 
+SourceFile StudentService.java                  	 
+                                
